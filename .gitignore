@@ -12,6 +12,9 @@
 *.cb2
 .*.lb
 
+# backup files
+*.tex~
+
 ## Intermediate documents:
 *.dvi
 *.xdv
