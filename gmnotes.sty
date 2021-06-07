@@ -1,0 +1,50 @@
+\usepackage{chngcntr} % modify section counters
+\usepackage[hidelinks]{hyperref} % add intradocument links
+\usepackage{mathtools} % use mathmode-only triangle symbol for section link lists
+\usepackage[bottom=1in,top=1in]{geometry} % adjust margins
+\usepackage{framed,graphicx,xcolor} % fancy colored boxes to mark content
+\usepackage[normalem]{ulem} % allow underlined text to linebreak with \uline
+\usepackage{enumitem} % easier custom lists
+\usepackage{nth} % macro for writing 1st, 2nd, 3rd, etc.
+
+% Allow subsections to use full numbers starting at 1, rather than something like 0.1
+\counterwithout{subsection}{section}
+% Set subsubsections to use capital letters
+\renewcommand{\thesubsubsection}{\thesubsection\Alph{subsubsection}}
+% only allow down to subsections in the toc
+\setcounter{tocdepth}{2}
+
+% custom list symbol for area links
+\newenvironment{arealinks}{
+  \begin{enumerate}[label={\(\triangleright\)}]
+}{
+  \end{enumerate}
+}
+% Custom section link to display Area numbers for ease-of-use
+\newcommand*{\fullref}[1]{\hyperref[{#1}]{\ref*{#1} / \nameref*{#1}}}
+% custom ease-of-use macro for area links
+\newcommand*{\arealink}[1]{\item\fullref{#1}}
+
+% Adjust paragraphs to not indent and be slightly more separated.
+\parindent=0pt
+\parskip=0.5em
+
+% define colors for various content boxing
+\definecolor{dollarbill}{rgb}{0.52,0.73,0.4} % read to players
+\definecolor{ballblue}{rgb}{0.13,0.67,0.8} % handouts
+
+% colorbox for stuff to read to players (e.g. entering a room)
+\newenvironment{readout}{
+  \colorlet{shadecolor}{dollarbill}
+  \begin{shaded*}
+}{
+  \end{shaded*}
+}
+
+% colorbox for handouts to players (e.g. letters they find)
+\newenvironment{handout}{
+  \colorlet{shadecolor}{ballblue}
+  \begin{shaded*}
+}{
+  \end{shaded*}
+}

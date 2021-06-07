@@ -1,0 +1,228 @@
+\pagebreak
+\subsection{Balcony}
+\label{sec:Balcony}
+\begin{readout}
+  At the top of the stairs you arrive at a dusty balcony, and if you look over the railing of the spiraling
+  staircase you're able to see all the way down to the first floor through the center.
+  
+  There is a suit of black plate armor standing against one wall, draped in cobwebs. Oil lamps are mounted
+  on the oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny critters.
+  \{\textit{PCs with 12+ passive perception:} You notice tiny corpses hanging from the trees and worms bursting
+  up from the ground.\}
+\end{readout}
+
+If PCs had played the harpsichord in the conservatory (Area 10):
+\begin{readout}
+  It looks like the entire stone wall swung open at the western end of the landing to reveal a secret doorway.
+\end{readout}
+
+This suit of animated armor attacks as soon as it takes damage or a PC approaches within 5 feet of it. It fights
+until destroyed. If the animated armor is thrown down to the first floor and the PCs don't reveal their
+presence atop the balcony, it is unable to observe them with its sixty feet of blindsight and is too stupid
+to think to climb back up.
+
+A creature that is pushed over the edge of the balcony falls two stories, or twenty feet, and takes 2d6
+bludgeoning damage. That creature must succeed on a DC 15 Dexterity (Acrobatics) check or land prone.
+
+\subsubsection*{Know the Monsters: Animated Armor}
+The armor will attempt to push PCs over the railing itself using a shove attack, or attempt to grapple its 
+nearest target before shoving them prone. Remember that, as the armor has two attacks per round, it is able to
+make two shove or grapple attempts each turn -- or any mixture of the two.
+
+\subsubsection*{Secret Door}
+A secret door in the west wall can be found with a successful DC 15 Wisdom (Perception) check. It pushes open
+easily to reveal a cobweb-filled wooden staircase leading up to the attic.
+
+\begin{itemize}
+  \item \fullref{sec:UpperHall}
+  \item \fullref{sec:MasterSuite}
+  \item \fullref{sec:Bathroom}
+  \item \fullref{sec:StorageRoom3dFlr}
+  \item \fullref{sec:NursemaidsSuite}
+  \item \fullref{sec:AtticHall}
+\end{itemize}
+
+
+\pagebreak
+\subsection{Master Suite}
+\label{sec:MasterSuite}
+\begin{readout}
+  The double doors to this room have dusty panes of stained glass set into them; the designs in the glass
+  resemble windmills. The dusty, cobweb-filled master bedroom has burgundy drapes covering the windows.
+  Furnishings include a four-poster bed with embroidered curtains and tattered gossamer veils, a matching pair
+  of empty wardrobes, a vanity with a wood-framed mirror and jewelry box, and a padded chair. A rotting
+  tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait hanging above it
+  of \{\textit{If PCs have found the will:} Gustav and Elisabeth Durst / \textit{Otherwise:} the same dour
+  man and woman you've seen pictured throughout the house\}. There is a male ghast dressed in fine clothes
+  hanging from a noose tied beside the bed, and he has a small piece of parchment clutched in his right hand.
+\end{readout}
+As PCs move into the room in general:
+\begin{readout}
+  A web-filled parlor in the southwest corner contains a table and two chairs. Resting on the dusty tablecloth
+  is an empty porcelain bowl and a matching rug. A door facing the foot of the bed has a full-length mirror
+  mounted on it, and there is a door behind one of the chairs in the parlor. Additionally, in the back corner
+  of the parlor you notice a small, 2-foot-wide door set into the wall with a button next to it.
+\end{readout}
+The door facing the foot of the bed (behind the mirror) opens to reveal an empty, dust-choked closet (Area 12B).
+A door in the parlor leads to an outside balcony (Area 12C).
+
+As PCs approach the ghast:
+\begin{readout}
+  The hanging body doesn't move as you approach -- it's clearly dead. \{\textit{PCs with proficiency
+  in medicine / a DC 13 Wisdom (Medicine) check:} The body has been dead for no more than a few hours.\}
+  The note is held tight by rigor mortis, but you're able to wiggle it free.
+\end{readout}
+The body is Mr. Durst. He is dead, and does not attack the PCs when disturbed. The appearance of only being
+dead a few hours is another manifestation of the house's curse, and not actually correct.
+The letter clutched in his hand reads:
+\begin{handout}
+  My Beloved Children,
+  
+  I wish I could be what all fathers do and tell you that monsters aren't real. But it wouldn't be true.
+  
+  Life can create things of exquisite beauty. But it can also twist them into hideous beings. Selfish. Violent.
+  Grotesque. Monstrous. It hurts me to say that your mother has turned into one such monster, inside and out.
+  And I'm afraid the disease that afflicted her mind has taken hold of me as well.
+  
+  It sickens me to think what we've put you through. There is no excuse. I only ask you, though I know I have
+  not the right to do so, to try and forgive us. I despise what your mother has become, but I love and pity
+  her all the same.
+  
+  Rose, I wish I could see you blossom into a strong, beautiful woman. Thorn and Walter, I wish I could be
+  there for you. But I can't. This is the only way.
+  
+  Goodbye.
+\end{handout}
+
+\subsubsection*{Dumbwaiter}
+A dumbwaiter in the corner of the west wall has a button on the wall next to it. Pressing the button rings a
+tiny bell in the kitchen (Area 4A).
+
+\subsubsection*{Treasure}
+\begin{readout}
+  The jewelry box on the vanity is made of silver with gold filigree (worth 75 gp). It contains three gold rings
+  (worth 25 gp each), a thin platinum necklace with a topaz pendant (worth 750 gp), and an unsent letter
+  addressed to one Mrs. Petrovna.
+\end{readout}
+The letter is from Mrs. Durst to a fellow cult member. It reads:
+\begin{handout}
+  My Dear Mrs. Petrovna,
+  
+  Your advice on dealing with the unwanted fiend in my home is quite good advice indeed. Tonight's ceremony
+  will proceed as planned when the moon is at its highest peak -- without, of course, the attendance of
+  Mr. Durst. I must agree with you that, with the assistance of such a remarkably innocent subject, the results
+  of our proceedings may be far improved. ``Innocent'', of course, is not quite the term I would use.
+  
+  If nothing else, I am relieved that I shall soon no longer have to suffer the harlot's insufferable presence
+  each time we must pass through her quarters to our meeting-space. We shall be well rid of her indeed.
+  
+  My thanks,
+  
+  Mrs. Elisabeth Durst
+\end{handout}
+
+\begin{itemize}
+  \item \fullref{sec:Balcony}
+\end{itemize}
+
+
+\pagebreak
+\subsection{Bathroom}
+\label{sec:Bathroom}
+\begin{readout}
+  This dark room contains a wooden tub with clawed feet, a small iron stove with a kettle resting atop it,
+  and a barrel under a spigot in the east wall. There is a pipe coming through the ceiling which feeds into
+  the spigot.
+\end{readout}
+A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the
+plumbing no longer works.
+
+\begin{itemize}
+  \item \fullref{sec:Balcony}
+\end{itemize}
+
+
+\pagebreak
+\subsection{Storage Room (Third Floor)}
+\label{sec:StorageRoom3dFlr}
+\begin{readout}
+  Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars
+  of soap on them, and leaning against the far wall is a cobweb-covered broom.
+\end{readout}
+The broom leaning against the far wall is a broom of animated attack; it attacks any creature approaching
+within 5 feet of it.
+
+\begin{itemize}
+  \item \fullref{sec:Balcony}
+\end{itemize}
+
+
+\pagebreak
+\subsection{Nursemaid's Suite}
+\label{sec:NursemaidsSuite}
+\begin{readout}
+  Dust and cobwebs shroud an elegantly appointed bedroom. There is a large bed, two end tables, and an
+  empty wardrobe. Mounted on the wall next to the wardrobe is a full-length mirror with an ornate wooden
+  frame carved to look like ivy and berries. \{\textit{PCs with 12+ passive perception:} You notice there
+  are eyeballs among the berries.\} There is a small table beside the bed, and atop it is a cobwebbed book
+  which appears to have been clumsily hidden beneath a mildew-covered towel.
+\end{readout}
+Double doors set with panes of stained glass pull open to reveal a balcony (Area 15C) overlooking the front
+house.
+
+The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair,
+which led to the birth of a bastard baby named Walter. The cult slew the nursemaid shortly thereafter.
+
+If a PC investigates the book:
+\begin{readout}
+  The book appears to be a raunchy romance novel titled ``Blue-Blooded Lips''. It tells the story of a wealthy
+  duke who enjoys an affair with his female cupbearer.
+\end{readout}
+If a PC opens the door to the nursery (Area 15B):
+\begin{readout}
+  There is a crib covered with a hanging black shroud. \{\textit{Ignore this if PCs have already defeated
+  specter in 3rd-floor storage room (Area 18):}\} Standing beside the crib is a specter in the form
+  of a young woman; she is wearing a homely dress and bonnet, and is staring gently into a crib.
+  She doesn't react to you opening the door.
+\end{readout}
+When PCs part the shroud covering the crib, they see a tightly wrapped, baby-sized bundle lying in the crib.
+PCs who unwrap the blanket find nothing inside it.
+
+\subsubsection*{Secret Door}
+When any character inspects the mirror, they find the secret door automatically without any checks required.
+It makes little sense for such a mundane door to be concealed so expertly, and a DC 15 Wisdom (Perception)
+barrier can create undue frustration in your players, given that finding this door is necessary to continue
+forward. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic (Area 16).
+
+\subsubsection*{Nursemaid Encounter}
+If the nursemaid's specter is disturbed (spoken to, touched, etc.):
+\begin{readout}
+  The specter turns toward the PCs, holds a finger to her lips, and whispers ``Hush, the baby is sleeping''.
+\end{readout}
+If a PC threatens or approaches the bundle containing the ``baby'', the specter attacks, relenting only when
+all PCs have fled her chambers or when the character that disturbed her ``baby'' has been killed or knocked
+unconscious. If her HP gets very low she vanishes in order to reappear later in the 3rd-floor storage room
+(Area 18).
+
+If the PCs approach with kindness or respect, the nursemaid's specter introduces herself as Margaret. She
+is withdrawn and shy, and does not fully understand how or why she died. She is confused, and frequently
+jumps between awareness and ignorance of her own state of undeath, sometimes in the same sentence.
+
+She speaks fondly of Mr. Durst, but avoids their affair out of a sense of propriety. If a PC asks her about
+her relationship with Mr. Durst or her parentage of Walter, she smiles sadly and informs the party that it
+is ``not her place to speak of such things''. She adores Rose, Thorn, and Walter. While she does not speak
+ill of Mrs. Durst if asked, she is clearly uncomfortable and fearful of the lady of the house.
+
+When the PCs finish their conversation:
+\begin{readout}
+  The nursemaid scoops up the baby in her arms and turns to leave, saying: ``I'm taking Walter upstairs to
+  play with his older brother and sister. Take care!'' She smiles warmly and walks into the main bedroom,
+  before turning and passing through the mirror on the wall. A moment later, you hear a click and the mirror
+  gently swings inward revealing a hidden passageway.
+\end{readout}
+Margaret does not appear again.
+
+\begin{itemize}
+  \item \fullref{sec:Balcony}
+  \item \fullref{sec:AtticHall}
+\end{itemize}
