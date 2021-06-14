@@ -14,6 +14,7 @@
 
 # backup files
 *.tex~
+*.sty~
 
 ## Intermediate documents:
 *.dvi
