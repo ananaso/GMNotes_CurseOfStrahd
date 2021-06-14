@@ -32,6 +32,7 @@
 % define colors for various content boxing
 \definecolor{dollarbill}{rgb}{0.52,0.73,0.4} % read to players
 \definecolor{ballblue}{rgb}{0.13,0.67,0.8} % handouts
+\definecolor{persianred}{rgb}{0.8, 0.2, 0.2} % Skill Challenges
 
 % colorbox for stuff to read to players (e.g. entering a room)
 \newenvironment{readout}{
@@ -48,3 +49,16 @@
 }{
   \end{shaded*}
 }
+
+% colorbox for skill challenge content (e.g. suggested skills)
+\newenvironment{skillChallenge}{
+  \colorlet{shadecolor}{persianred}
+  \begin{shaded*}
+}{
+  \end{shaded*}
+}
+
+% skill challenge DC macros
+\newcommand\easyDC{(Easy DC - 8)}
+\newcommand\moderateDC{(Moderate DC - 13)}
+\newcommand\hardDC{(Hard DC - 18)}
