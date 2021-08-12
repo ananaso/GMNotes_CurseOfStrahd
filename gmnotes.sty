@@ -9,7 +9,8 @@
 
 % Allow subsections to use full numbers starting at 1, rather than something like 0.1
 \counterwithout{subsection}{section}
-% Set subsubsections to use capital letters
+% Set sections and subsubsections to use capital letters
+\renewcommand{\thesection}{\Alph{section}}
 \renewcommand{\thesubsubsection}{\thesubsection\Alph{subsubsection}}
 % only allow down to subsections in the toc
 \setcounter{tocdepth}{2}
